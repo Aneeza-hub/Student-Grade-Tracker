@@ -29,15 +29,6 @@ This project is built using **Object-Oriented Programming (OOP)** concepts in Ja
 
 ---
 
-## 📁 Project Structure
-
-StudentGradeTracker/
-│
-├── Main.java
-├── Student.java
-└── README.md
-
----
 
 ## ▶️ How to Run
 
